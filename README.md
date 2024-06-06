@@ -19,9 +19,7 @@ pragma solidity ^0.8.10;
 import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
 import "@openzeppelin/contracts/access/Ownable.sol";
 
-contract HighlandMarket is ERC20, Ownable {
-
-    mapping(uint256 => uint256) public VeggiePrices;
+contract BuyGadgets is ERC20, Ownable {
 ```
 
 ## Additional Information
