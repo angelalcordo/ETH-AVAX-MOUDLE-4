@@ -31,9 +31,3 @@ National Teachers College
 Alcordo, Angel Adellene A.
  
 422003173@ntc.edu.ph
-
-## Loom Video Part 1-2
-
-https://www.loom.com/share/123efa3f235f4ea48c188768594d9e76
-
-https://www.loom.com/share/24f9174b4a224676b53a79c4edfc818d
